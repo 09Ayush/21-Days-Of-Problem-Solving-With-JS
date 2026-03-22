@@ -66,21 +66,21 @@
 // Input: `Whole = [1, 2], Fraction = [3, 4]`
 //    * Output: `12.34`
 
-let inputWhole = [1,2];
-let inputFraction = [3,4]
-let whole;
-let fraction = 0;
-let finalOutput;
-//whole part
-for(let i = 0; i < inputWhole.length; i++){
-    if(i == 0){
-        whole = inputWhole[i]
-    }
-    else{
-        whole = whole * 10 +  inputWhole[i]
-    }
+// let inputWhole = [1,2];
+// let inputFraction = [3,4]
+// let whole;
+// let fraction = 0;
+// let finalOutput;
+// //whole part
+// for(let i = 0; i < inputWhole.length; i++){
+//     if(i == 0){
+//         whole = inputWhole[i]
+//     }
+//     else{
+//         whole = whole * 10 +  inputWhole[i]
+//     }
     
-}
+// }
 // //fraction part
 // for(let j = 0; j < inputFraction.length; j++ ){
 
