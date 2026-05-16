@@ -346,3 +346,4 @@
 //     outputStr += key + countObj[key]
 // }
 // console.log(outputStr);
+//Day 8 completed
